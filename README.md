@@ -69,19 +69,25 @@ Control your system music using hand gestures in real-time through your webcam.
 ```
 Gesture-Based-Music-Control-System/
 │
-├── app.py                  # Main application
-├── collect_gestures.py     # Collect gesture training data
-├── train_model.py          # Train machine learning model
-├── gesture_model.pkl       # Trained model file
-├── gestures.csv            # Dataset of collected gestures
-├── requirements.txt        # Project dependencies
-├── assets/                 # Gesture images
+├── project/
+│   ├── app.py                  # Main application
+│   ├── collect_gestures.py     # Collect gesture training data
+│   ├── train_model.py          # Train machine learning model
+│   ├── gesture_model.pkl       # Trained model file
+│   ├── gestures.csv            # Dataset of collected gestures
+│   └── requirements.txt        # Project dependencies
+│
+├── assets/                     # Gesture images
 │   ├── play-pause.png
 │   ├── next.png
 │   ├── prev.png
 │   ├── volup.png
 │   ├── voldown.png
 │   └── mute.png
-└── README.md
+│
+├── README.md                   # Project documentation
+└── LICENSE                     # License file
+```
+d
 ```
 
