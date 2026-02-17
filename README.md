@@ -88,6 +88,4 @@ Gesture-Based-Music-Control-System/
 ├── README.md                   # Project documentation
 └── LICENSE                     # License file
 ```
-d
-```
 
