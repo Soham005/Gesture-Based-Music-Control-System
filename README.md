@@ -1,5 +1,3 @@
-# Gesture-Based-Music-Control-System
-
 # 🎵 Gesture-Based Music Control System
 
 Control your system music using hand gestures in real-time through your webcam.
