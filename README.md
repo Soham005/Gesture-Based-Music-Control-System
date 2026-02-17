@@ -22,19 +22,19 @@ Control your system music using hand gestures in real-time through your webcam.
 
 ### ⏮ Previous (3 Fingers)
 
-![Previous Gesture](assets/previous.png)
+![Previous Gesture](assets/prev.png)
 
 ---
 
 ### 🔊 Volume Up (4 Fingers)
 
-![Volume Up Gesture](assets/volume_up.png)
+![Volume Up Gesture](assets/volup.png)
 
 ---
 
 ### 🔉 Volume Down (5 Fingers)
 
-![Volume Down Gesture](assets/volume_down.png)
+![Volume Down Gesture](assets/voldown.png)
 
 ---
 
